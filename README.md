@@ -13,7 +13,7 @@ Sarah Pursley\
 
 ```
 $ git install 
-$ git clone https://github.com/sarahpursley/DSCI510-lab1
+$ git clone https://github.com/sarahpursley/dsci510-lab1.git
 ```
   
 2. Execute the python file.
