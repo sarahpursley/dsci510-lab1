@@ -2,7 +2,7 @@
 Python program to print "Welcome to DSCI510!"\
 \
 Sarah Pursley\
-(spursley@usc.edu)
+spursley@usc.edu
 
 ## Set Up
 - Open Terminal.
