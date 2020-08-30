@@ -4,5 +4,5 @@
 # In[1]:
 
 
-print("Welcome to DSCI510!")
+print("Welcome to DCSCI510!”)
 
