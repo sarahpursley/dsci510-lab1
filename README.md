@@ -15,24 +15,29 @@ spursley@usc.edu
 $ git install 
 $ git clone https://github.com/sarahpursley/dsci510-lab1.git
 ```
+
+2. Change working directory to the repository location.
+``` 
+$ cd ./dsci510-lab1 
+```
   
-2. Execute the python file.
+3. Execute the python file.
 
 ```
-$ python dsci510-lab1/lab1.py
+$ python lab1.py
 ```
 
 ### Download Zipped File
-1. Click the download button on the main page of this repo to save a zipped archive to your local machine.
+1. Click *Download ZIP* button on the main repo page to download a zipped archive to your local machine.
 
-2. Unzip files.
+2. Unzip files and save files in desired location.
 
-2. Change working directory to the source file location.
+3. Change working directory to the saved repository location.
 ``` 
 $ cd /path/to/dir
 ```
 
 3. Execute the python file.
 ``` 
-$ python dsci510-lab1/lab1.py
+$ python lab1.py
 ```
