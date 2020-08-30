@@ -19,7 +19,7 @@ $ git clone https://github.com/sarahpursley/DSCI510-lab1
 2. Execute the python file.
 
 ```
-$ python lab1.py
+$ python dsci510-lab1/lab1.py
 ```
 
 ### Download Zipped File
@@ -34,5 +34,5 @@ $ cd /path/to/dir
 
 3. Execute the python file.
 ``` 
-$ python lab1.py
+$ python dsci510-lab1/lab1.py
 ```
