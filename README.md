@@ -9,7 +9,7 @@ spursley@usc.edu
 - Use one of the following methods.
 
 ### Clone
-1. Install `git ` and clone repository.
+1. Install `git` and clone repository.
 
 ```
 $ git install 
@@ -37,7 +37,7 @@ $ python lab1.py
 $ cd /path/to/dir
 ```
 
-3. Execute the python file.
+4. Execute the python file.
 ``` 
 $ python lab1.py
 ```
