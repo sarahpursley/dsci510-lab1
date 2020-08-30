@@ -9,7 +9,7 @@ spursley@usc.edu
 - Use one of the following methods.
 
 ### Clone
-1. Install `git ` and clone repository using the repo link.
+1. Install `git ` and clone repository.
 
 ```
 $ git install 
