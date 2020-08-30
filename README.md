@@ -1,5 +1,5 @@
 # dsci510-lab1
-Python program to print "Welcome to DCSCI510!"\
+Python program to print "Welcome to DSCI510!"\
 \
 Sarah Pursley\
 spursley@usc.edu
