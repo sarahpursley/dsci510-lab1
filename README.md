@@ -1,5 +1,5 @@
 # dsci510-lab1
-Python program to print "Welcome to DSCI510!"\
+Python program to print "Welcome to DCSCI510!"\
 \
 Sarah Pursley\
 spursley@usc.edu
@@ -30,7 +30,7 @@ $ python lab1.py
 ### Download Zipped File
 1. Click *Download ZIP* button on the main repo page to download a zipped archive to your local machine.
 
-2. Unzip files and save files in desired location.
+2. Unzip files and save in desired location.
 
 3. Change working directory to the saved repository location.
 ``` 
